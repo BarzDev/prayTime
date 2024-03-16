@@ -20,20 +20,23 @@ const CardComponent = ({ prayer, time }) => {
 
   return (
     <Card
-      className="max-w-sm relative overflow-hidden"
+      className="max-w-sm relative overflow-hidden "
       renderImage={() => (
         <div className="relative flex justify-center items-center ">
           <Image
             width={400}
             height={400}
-            src="/bg.jpg"
+            src="/bg2.jpg"
             alt="image 1"
             style={{
               objectFit: "contain",
               transform: "none",
             }}
           />
-          <div className="absolute top-0 right-0 p-5">
+          <div
+            className="absolute bottom-0 right-0 p-5"
+            style={{ bottom: "0" }}
+          >
             <h3 className="text-4xl font-bold text-white">
               {prayer.city}, {prayer.state}
             </h3>
@@ -68,19 +71,19 @@ const CardComponent = ({ prayer, time }) => {
         </div>
         <div className="flex flex-col">
           <p className="font-normal text-gray-700 dark:text-gray-400 ">
-            {fajrTime}
+            {itemsArray[0].fajr}
           </p>
           <p className="font-normal text-gray-700 dark:text-gray-400 ">
-            {dhuhrTime}
+            {itemsArray[0].dhuhr}
           </p>
           <p className="font-normal text-gray-700 dark:text-gray-400 ">
-            {asrTime}
+            {itemsArray[0].asr}
           </p>
           <p className="font-normal text-gray-700 dark:text-gray-400 ">
-            {maghribTime}
+            {itemsArray[0].maghrib}
           </p>
           <p className="font-normal text-gray-700 dark:text-gray-400 ">
-            {ishaTime}
+            {itemsArray[0].isha}
           </p>
         </div>
       </div>

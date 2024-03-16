@@ -1,0 +1,283 @@
+{
+  "time": [
+    {
+      "date_for": "12th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:03 pm",
+      "asr": "3:09 pm",
+      "maghrib": "6:11 pm",
+      "isha": "7:17 pm"
+    },
+    {
+      "date_for": "13th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:02 pm",
+      "asr": "3:09 pm",
+      "maghrib": "6:11 pm",
+      "isha": "7:16 pm"
+    },
+    {
+      "date_for": "14th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:02 pm",
+      "asr": "3:09 pm",
+      "maghrib": "6:10 pm",
+      "isha": "7:16 pm"
+    },
+    {
+      "date_for": "15th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:02 pm",
+      "asr": "3:09 pm",
+      "maghrib": "6:10 pm",
+      "isha": "7:15 pm"
+    },
+    {
+      "date_for": "16th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:02 pm",
+      "asr": "3:10 pm",
+      "maghrib": "6:09 pm",
+      "isha": "7:15 pm"
+    },
+    {
+      "date_for": "17th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:01 pm",
+      "asr": "3:10 pm",
+      "maghrib": "6:09 pm",
+      "isha": "7:14 pm"
+    },
+    {
+      "date_for": "18th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:54 am",
+      "dhuhr": "12:01 pm",
+      "asr": "3:10 pm",
+      "maghrib": "6:08 pm",
+      "isha": "7:14 pm"
+    },
+    {
+      "date_for": "19th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "12:01 pm",
+      "asr": "3:10 pm",
+      "maghrib": "6:08 pm",
+      "isha": "7:13 pm"
+    },
+    {
+      "date_for": "20th March",
+      "fajr": "4:40 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "12:00 pm",
+      "asr": "3:11 pm",
+      "maghrib": "6:07 pm",
+      "isha": "7:13 pm"
+    },
+    {
+      "date_for": "21st March",
+      "fajr": "4:39 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "12:00 pm",
+      "asr": "3:11 pm",
+      "maghrib": "6:07 pm",
+      "isha": "7:12 pm"
+    },
+    {
+      "date_for": "22nd March",
+      "fajr": "4:40 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "12:00 pm",
+      "asr": "3:11 pm",
+      "maghrib": "6:06 pm",
+      "isha": "7:12 pm"
+    },
+    {
+      "date_for": "23rd March",
+      "fajr": "4:39 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "11:59 am",
+      "asr": "3:11 pm",
+      "maghrib": "6:06 pm",
+      "isha": "7:11 pm"
+    },
+    {
+      "date_for": "24th March",
+      "fajr": "4:39 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "11:59 am",
+      "asr": "3:11 pm",
+      "maghrib": "6:05 pm",
+      "isha": "7:11 pm"
+    },
+    {
+      "date_for": "25th March",
+      "fajr": "4:39 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "11:59 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:05 pm",
+      "isha": "7:11 pm"
+    },
+    {
+      "date_for": "26th March",
+      "fajr": "4:39 am",
+      "shurooq": "5:53 am",
+      "dhuhr": "11:59 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:05 pm",
+      "isha": "7:10 pm"
+    },
+    {
+      "date_for": "27th March",
+      "fajr": "4:39 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:58 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:04 pm",
+      "isha": "7:10 pm"
+    },
+    {
+      "date_for": "28th March",
+      "fajr": "4:39 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:58 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:04 pm",
+      "isha": "7:09 pm"
+    },
+    {
+      "date_for": "29th March",
+      "fajr": "4:39 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:58 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:03 pm",
+      "isha": "7:09 pm"
+    },
+    {
+      "date_for": "30th March",
+      "fajr": "4:38 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:57 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:03 pm",
+      "isha": "7:08 pm"
+    },
+    {
+      "date_for": "31st March",
+      "fajr": "4:38 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:57 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:02 pm",
+      "isha": "7:08 pm"
+    },
+    {
+      "date_for": "1st April",
+      "fajr": "4:38 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:57 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:02 pm",
+      "isha": "7:07 pm"
+    },
+    {
+      "date_for": "2nd April",
+      "fajr": "4:38 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:56 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:01 pm",
+      "isha": "7:07 pm"
+    },
+    {
+      "date_for": "3rd April",
+      "fajr": "4:38 am",
+      "shurooq": "5:52 am",
+      "dhuhr": "11:56 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:01 pm",
+      "isha": "7:07 pm"
+    },
+    {
+      "date_for": "4th April",
+      "fajr": "4:38 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:56 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:00 pm",
+      "isha": "7:06 pm"
+    },
+    {
+      "date_for": "5th April",
+      "fajr": "4:37 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:56 am",
+      "asr": "3:12 pm",
+      "maghrib": "6:00 pm",
+      "isha": "7:06 pm"
+    },
+    {
+      "date_for": "6th April",
+      "fajr": "4:37 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:55 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:59 pm",
+      "isha": "7:05 pm"
+    },
+    {
+      "date_for": "7th April",
+      "fajr": "4:37 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:55 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:59 pm",
+      "isha": "7:05 pm"
+    },
+    {
+      "date_for": "8th April",
+      "fajr": "4:37 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:55 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:59 pm",
+      "isha": "7:04 pm"
+    },
+    {
+      "date_for": "9th April",
+      "fajr": "4:37 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:54 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:58 pm",
+      "isha": "7:04 pm"
+    },
+    {
+      "date_for": "10th April",
+      "fajr": "4:37 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:54 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:58 pm",
+      "isha": "7:04 pm"
+    },
+    {
+      "date_for": "11th April",
+      "fajr": "4:36 am",
+      "shurooq": "5:51 am",
+      "dhuhr": "11:54 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:57 pm",
+      "isha": "7:03 pm"
+    }
+  ]
+}
